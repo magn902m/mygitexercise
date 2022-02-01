@@ -1,0 +1,8 @@
+nav {
+  display: flex;
+  list-style-type: none;
+
+  justify-content: space-between;
+  width: 80vw;
+  background-color: red;
+}
